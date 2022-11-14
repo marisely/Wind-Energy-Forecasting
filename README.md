@@ -16,7 +16,6 @@ Outcomes:
 | 4_MLSUP_REG_IrelandRenewableProject.ipynb | Reg prediction model | 
 | 4_AR_IrelandRenewableProject.ipynb | AutoReg prediction model | 
 | 4_MLSUP_KNN_IrelandRenewableProject.ipynb | KNN prediction model |
-| 4_IslandElectricity_autoreg.ipynb | AutoReg prediction model | 
 | 4_MLSUP_LOGREG_IrelandRenewableProject.ipynb | Log Reg prediction model |
 
 This methodology was perfomed as a part of WWC mentoring program commited to empowering diverse women to excel in technology careers

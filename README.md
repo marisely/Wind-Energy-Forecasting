@@ -1,5 +1,5 @@
 # Wind-Energy-Forecasting
-This project aims to provide a better understanding of Data Science methodologies for renewables energies to lawer carbon. We used Machine Learning ML algorithms to forecast wind electricity generation in Ireland.
+This project aims to provide a better understanding of Data Science methodologies for renewables energies to lower carbon. We used Machine Learning ML algorithms to forecast wind electricity generation in Ireland.
 The main goal is to forecast wind electricity generation to improve efficiency and reduce environment impact by using storage energy when the demand is lower than the generation capacity maintaining an optimized flow in the energy system to reduce carbon footprint. 
 Outcomes:
 - Forecast Wind Electricity hourly generation for the next 24h
